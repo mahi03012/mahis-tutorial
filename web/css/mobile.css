@@ -1,0 +1,90 @@
+@media (max-width:768px){
+    .navbar{
+        margin:5px;
+    }
+    .happyclients{
+        margin-top: 1010px;
+    }
+    .contactus{
+        margin-top: 870px;
+    }
+    .newsletter{
+        margin-top:250px
+    }
+    form{
+        margin-left: 75px;
+        
+    }
+    .navlinks{
+        margin-top: 10px;
+    }
+    .basic{
+        margin-bottom:11px;
+    }
+    .social h3{
+        margin-top: 9px;
+    }
+    .navbar-toggler{
+        color:black!important
+    }
+    .header{
+        margin-right: 0;
+    
+    }
+
+    html,body{
+        overflow-x: hidden;
+    }
+    .center-div h1{
+        font-size: 1.8rem;
+    }
+    .row .xtra{
+        margin-top: 20px;
+        margin-left: 67px;
+    }
+    .row input{
+        margin-top:5px
+    }
+    .btn a{
+        margin-bottom: 3px;
+    }
+    .btnn a{
+        margin-bottom: 3px;
+    }
+
+    .per h3{
+        margin-left: 37px;
+    }
+    .header{
+        clip-path: polygon(100% 0%,100% 75%,50% 95%,0% 75%,0 0);
+    }
+    .row form{
+        width:100%;
+        
+        margin-left: 41px;
+    }
+    .newsletter{
+        margin-top: 30px;
+    }
+    .contactus{
+        margin-top: 650px;
+    }
+    .card{
+        width:21rem;
+        text-align:center
+    }
+    .card-second{
+        transform: translateY(20px);
+        box-shadow: 0px 0px white;
+        margin-bottom: 39px;
+    }
+    .header-extradiv{
+        margin-top: 20px;
+    }
+}
+@media (max-width:479px) {
+    .cms p{
+        margin:4px;
+        font-size: 1.1rem;
+    }
+} 
